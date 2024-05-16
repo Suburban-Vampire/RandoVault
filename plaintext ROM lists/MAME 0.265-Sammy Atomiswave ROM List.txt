@@ -1,0 +1,24 @@
+# Sammy Atomiswave Games
+# ROM		# Game Title
+demofist	# Demolish Fist
+dolphin		# Dolphin Blue
+xtrmhunt	# Extreme Hunting
+xtrmhnt2	# Extreme Hunting 2
+ftspeed		# Faster Than Speed
+fotns		# Fist Of The North Star / Hokuto no Ken
+ggisuka		# Guilty Gear Isuka
+ggx15		# Guilty Gear X ver. 1.5
+kov7sprt	# Knights of Valour - The Seven Spirits
+maxspeed	# Maximum Speed
+mslug6		# Metal Slug 6
+ngbc		# NeoGeo Battle Coliseum
+rangrmsn	# Ranger Mission
+samsptk		# Samurai Shodown VI aka Samurai Spirits Tenkaichi Kenkakuden
+claychal	# Sega Clay Challenge
+basschal	# Sega Bass Fishing Challenge Version A
+sprtshot	# Sports Shooting USA
+kofnw		# The King of Fighters Neowave
+kofxi		# The King of Fighters XI
+rumblef		# The Rumble Fish
+rumblef2	# The Rumble Fish 2
+vfurlong	# Net@Select: Horse Racing - Victory Furlong

@@ -1,0 +1,14 @@
+# Naomi 2
+beachspi	# Beach Spikers (GDS-0014)
+clubk2k3	# Club Kart: European Session (2003, Rev A)
+initdexp	# Initial D Arcade Stage (Export, Rev A) (GDS-0025A)
+initdv2j	# Initial D Arcade Stage Ver. 2 (Japan, Rev B) (GDS-0026B)
+initdv3e	# Initial D Arcade Stage Ver. 3 (Export) (GDS-0033)
+kingrt66	# The King of Route 66 (Rev A)
+soulsurf	# Soul Surfer (Rev A)
+vf4			# Virtua Fighter 4 Version C (GDS-0012C)
+vf4cart		# Virtua Fighter 4 (World)
+vf4evoct	# Virtua Fighter 4: Evolution (World)
+vf4tuned	# Virtua Fighter 4: Final Tuned (Ver. B) (GDS-0036F)
+vstrik3c	# Virtua Striker 3 (World, Rev B)
+wldrider	# Wild Riders

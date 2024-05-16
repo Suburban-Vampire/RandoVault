@@ -1,0 +1,150 @@
+# Naomi
+18wheelr	# 18 Wheeler: American Pro Trucker (deluxe, Rev A) 
+alpilot		# Airline Pilots
+ausfache	# Akatsuki Blitzkampf Ausf. Achse
+alienfnt	# Alient Front
+asndynmt	# Asian Dynamite ~ Dynamite Deka EX
+azumanga	# Azumanga Daioh Puzzle Bobble (GDL-0018) (Taito)
+# Bingo Party Pirates - no MAME dump exists and game is mechanical medal drop anyways
+# Bingo Party Splash - no MAME dump exists and game is mechanical medal drop anyways
+# Boat Race Ocean Heats - no MAME dump exists and game is mechanical medal drop anyways
+bdrdown		# Border Down (Rev A) (GDL-0023A)
+cspike		# Cannon Spike (Capcom)
+cvs2		# Capcom Vs. SNK 2: Mark Of The Millennium 2001 (USA) (GDL-0008)
+cvs2mf		# Capcom vs. SNK 2 Millionaire Fighting 2001
+capsnkb		# Capcom Vs. SNK: Millennium Fight 2000 (Capcom)
+cvsgd		# Capcom Vs. SNK: Millennium Fight 2000 Pro (Japan) (GDL-0004)
+shikgam2	# Shikigami no Shiro II / The Castle of Shikigami II (GDL-0021)
+cfield		# Chaos Field (Japan) (GDL-0025)
+# Charge 'N Blast - Currently undumped, use Dreamcast version
+cleoftp		# Cleopatra Fortune Plus (GDL-0012) (Taito)
+confmiss	# Confidential Mission (GDS-0001)
+csmash		# Cosmic Smash
+crackndj	# Crackin' DJ
+crakndj2	# Crackin' DJ Part 2 (Japan)
+crzytaxi	# Crazy Taxi
+doa2		# Dead or Alive 2
+doa2m		# Dead or Alive 2: Millennium
+deathcox	# Death Crimson OX
+shangril	# Dengen Tenshi Taisen Janshi Shangri-la
+derbyoc		# Derby Owners Club (Japan, Rev B)
+derbyo2k	# Derby Owners Club 2000 Ver.2 (Japan, Rev A)
+derbyoc2	# Derby Owners Club II Ver.2.1 (Japan, Rev B)
+derbyocw	# Derby Owners Club World Edition EX (Rev D)
+starseek	# Doki Doki Idol Star Seeker (GDL-0005)
+dragntr		# Dragon Treasure (Rev B) (GDS-0030B)
+dragntr2	# Dragon Treasure 2 (Rev A) (GDS-0037A)
+dragntr3	# Dragon Treasure 3 (Rev A) (GDS-0041A)
+dybb99		# Dynamite Baseball '99 (Japan, Rev B)
+dybbnao		# Dynamite Baseball NAOMI (Japan)
+f355		# Ferrari F355 Challenge (deluxe, no link)
+f355twn2	# Ferrari F355 Challenge 2 - International Course Edition (twin/deluxe)
+gram2000	# Giant Gram 2000
+ggram2		# Giant Gram: All Japan Pro Wrestling 2 (Japan)
+gwing2		# Giga Wing 2
+gprix		# Grand Prix (CPU 4.50, display A4.00)
+ggx			# Guilty Gear X
+ggxx		# Guilty Gear XX (GDL-0011)
+ggxxrl		# Guilty Gear XX #Reload (Japan, Rev A) (GDL-0019A)
+ggxxac		# Guilty Gear XX Accent Core (Japan) (GDL-0041)
+ggxxsla		# Guilty Gear XX Slash (Japan, Rev A) (GDL-0033A)
+gunsur2		# Gun Survivor 2 Biohazard Code: Veronica (World, BHF2 Ver.E)
+hmgeo		# Heavy Metal: Geomatrix (Rev B)
+hotd2o		# The House of the Dead 2
+suchie3		# Idol Janshi Suchie-Pai 3 (Japan)
+ikaruga		# Ikaruga (GDL-0010)
+illvelo		# Illvelo (Illmatic Envelope) (Japan)
+inunoos		# Inu no Osanpo / Dog Walking (Japan, Export, Rev A)
+jambo		# Jambo! Safari (Rev A)
+jingystm	# Jingi Storm - The Arcade (Japan) (GDL-0037)
+karous		# Karous (Japan) (GDL-0040)
+kick4csh	# Kick '4' Cash (Export)
+kurucham	# Kurukuru Chameleon (Japan) (GDL-0034)
+lupinsho	# Lupin The Third - The Shooting (Rev A) (GDS-0018A)
+mamonoro	# Mamoru-kun wa Norowarete Shimatta! (Japan)
+manicpnc	# Manic Panic Ghosts! (USA, Export)
+marstv		# Mars TV (Japan)
+mvsc2u		# Marvel Vs. Capcom 2: New Age of Heroes (USA, Rev A)
+mazan		# Mazan: Flash of the Blade (World, MAZ2 Ver.A)
+mok			# The Maze of the Kings (GDS-0022)
+meltyb		# Melty Blood Act Cadenza Version B2 (Japan) (GDL-0039A)
+mbaa		# Melty Blood Actress Again Version A (Japan, Rev A)
+meltybld	# Melty Blood Act Cadenza Ver. A (Japan) (GDL-0028C)
+# Mickey & Minnie Touch de Kids - is an arcade machine in the Disney Fun Square series.
+gundmct		# Mobile Suit Gundam: Federation Vs. Zeon
+gundmxgd	# Mobile Suit Gundam: Federation Vs. Zeon DX (USA, Japan) (GDL-0006)
+monkeyba	# Monkey Ball (GDS-0008)
+chocomk		# Musapey's Choco Marker (Rev A) (GDL-0014A)
+mushi2eo	# Mushiking The King Of Beetles - Mushiking II / III / III+ (Ver. 1.001) (World)
+mushikc		# Mushiking The King Of Beetle (2K3 2ND Ver. 1.000-, China)
+mushi2k4	# Mushiking The King Of Beetles 2004 Second (Japan)
+mushi2k5	# Mushiking The King Of Beetles 2005 First (Japan)
+mushi2k6	# Mushiking The King Of Beetles 2006 First (Japan)
+mushi2k62	# Mushiking The King Of Beetles 2006 Second (Japan)
+mushik4e	# Mushiking The King Of Beetles - Mushiking IV / V / VI (World)
+ninjaslt	# Ninja Assault
+takoron		# Noukone Puzzle Takoron (Japan) (GDL-0042)
+oinori		# Oinori-daimyoujin Matsuri
+otrigger	# OutTrigger
+pstone		# Power Stone
+pstone2		# Power Stone 2
+pjustic		# Project Justice / Moero! Justice Gakuen (Rev B)
+psyvar2		# Psyvariar 2 - The Will To Fabricate (Japan) (GDL-0024)
+puyoda		# Puyo Puyo Da! (Japan)
+puyofevj	# Puyo Puyo Fever (Japan) (GDS-0031)
+qmegamis	# Quiz Aa! Megami-sama: Tatakau Tsubasa to Tomoni
+radirgyn	# Radirgy Noa (Japan)
+rhytngk		# Rhythm Tengoku (Japan)
+ringout		# Ring Out 4x4 (Rev A)
+samba		# Samba De Amigo (Rev B)
+samba2k		# Samba de Amigo ver. 2000 (Japan)
+smarinef	# Sega Marine Fishing
+sstrkfgt	# Sega Strike Fighter (Rev A)
+sgtetris	# Sega Tetris
+senko		# Senko no Ronde (Japan, Rev A) (GDL-0030A)
+senkosp		# Senko no Ronde Special (Export, Japan) (GDL-0038)
+shaktam		# Shakatto Tambourine (Rev B) (GDS-0002B)
+shaktamb	# Shakatto Tambourine Cho Powerup Chu (2K1 AUT) (GDS-0016)
+shaktmsp	# Shakatto Tambourine Motto Norinori Shinkyoku Tsuika (2K1 SPR) (GDS-0013)
+toukon4		# Shin Nihon Pro Wrestling Toukon Retsuden 4 Arcade Edition (Japan, TRF1 Ver.A)
+sl2007		# Shooting Love 2007 (Japan)
+shootopl	# Shootout Pool
+shootpl		# Shootout Pool Prize (Export) / Shootout Pool The Medal (Japan, Rev A)
+shootplm	# Shootout Pool Prize (Export) / Shootout Pool The Medal (Japan) Version B
+slasho		# Slashout
+anpanman2a	# Soreike! Anpanman Popcorn Koujou 2 (Rev A)
+spawn		# Spawn: In the Demon's Hand (Rev B)
+spkrbtl		# Spikers Battle (GDS-0005)
+sprtjam		# Sports Jam (GDS-0003)
+shorse		# Star Horse (satellite)
+shors2k1	# Star Horse 2001 (satellite, Rev B)
+shors2k2l	# Star Horse 2002 (live)
+shorsep		# Star Horse Progress (satellite, Rev A)
+shorsepr	# Star Horse Progress Returns (satellite)
+sfz3ugd		# Street Fighter Zero 3 Upper (Japan) (GDL-0002)
+# Taisen Puzzle Kurutto Stone - Never released or dumped
+tetkiwam	# Tetris Kiwamemichi (Japan) (GDL-0020)
+tokyobus	# Tokyo Bus Guide (Japan, Rev A)
+tduno		# Touch de Uno! / Unou Nouryoku Check Machine (Japan)
+tduno2		# Touch de Uno! 2 (Japan)
+toyfight	# Toy Fighter
+trgheart	# Trigger Heart Exelica Ver.A (Japan) (GDL-0036A)
+trizeal		# Trizeal (Japan) (GDL-0026)
+totd		# The Typing of the Dead (Rev A)
+undefeat	# Under Defeat (Japan) (GDL-0035)
+usagiym		# Usagi - Yamashiro Mahjong Hen (Japan) (GDL-0022)
+vathlete	# Virtua Athletics / Virtua Athlete (GDS-0019)
+dygolf		# Virtua Golf / Dynamic Golf (Rev A) (GDS-0009A)
+virnba		# Virtua NBA (USA)
+vs2_2k		# Virtua Striker 2 Ver. 2000 (Rev C)
+vtennis		# Virtua Tennis / Power Smash
+vtennis2	# Virtua Tennis 2 / Power Smash 2 (Rev A) (GDS-0015A)
+vonot		# Virtual On Oratorio Tangram M.S.B.S. ver5.66 2000 Edition
+wrungp		# Wave Runner GP
+wldkicks	# World Kicks (World, WK2 Ver.A)
+smlg99		# World Series 99 / Super Major League 99
+wsbbgd		# World Series Baseball / Super Major League (GDS-0010)
+wwfroyal	# WWF Royal Rumble
+zerogu2		# Zero Gunner 2
+zombrvn		# Zombie Revenge (Rev A)
+# Zunou Nouryoku Koujou Machine Touch de Zuno: Tanoshiku check? Soretomo Battle!? - Not Dumped
